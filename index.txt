@@ -1,5 +1,7 @@
 <b> DNR Planning Area Treatment Evaluation Dashboard Library </b>
 <br> <br>
+These dashboards were developed to visualize potential forest health and fuel reduction treatments with geospatial data from landscape evaluations conducted by the Washington Department of Natural Resources (DNR) as part of the 20-Year Forest Health Strategic Plan: Eastern Washington.
+<br> <br>
 <a href="planning_areas/LittleWhite_Treatment_Evaluation.html">Little White</a> <br>
 <a href="planning_areas/UpperSwauk_Treatment_Evaluation_comm-noncomm.html">Upper Swauk - Commercial/Non-Commercial</a> <br>
 <a href="planning_areas/UpperSwauk_Treatment_Evaluation_Commercial.html">Upper Swauk - Commercial Only</a> <br>
